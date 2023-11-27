@@ -1,0 +1,13 @@
+aiofiles==23.2.1
+fastapi==0.103.1
+gTTS==2.3.2
+pydantic==1.10.9
+pydub==0.25.1
+pygame==2.5.0
+pyttsx3==2.90
+Requests==2.31.0
+soundfile==0.12.1
+spacy==3.6.1
+SpeechRecognition==3.10.0
+uvicorn==0.23.2
+azure-cognitiveservices-speech
